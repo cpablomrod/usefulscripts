@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Django specific
+*.sqlite3
+db.sqlite3
+
+# VSCode / IDEs
+.vscode/
+.idea/
+
+# Mac system files
+.DS_Store
+
